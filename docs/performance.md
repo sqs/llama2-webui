@@ -10,6 +10,7 @@
 | Llama-2-7b-Chat-GPTQ        |   4bit   | NVIDIA GTX 1660 Super | 4.8 GB VRAM | 8.5   | 262.74        |
 | Llama-2-7b-Chat-GPTQ | 4 bit | Google Colab T4 | 5.8 GB VRAM | 18.19 | 37.44 |
 | Llama-2-13b-chat-hf               |   16 bit   |  |                  |                  |                  |
+| Llama-2-7b-Chat-GPTQ        |   4bit   | NVIDIA RTX 4090   | 3.2 GB VRAM | 33.61 | 4.71 |
 |  |  | |  | | |
 
 ## Performance on CPU / OpenBLAS / cuBLAS / CLBlast / Metal
